@@ -19,7 +19,7 @@ pinned: false
 
 ## 🚀 Live Demo
 
-**👉 [Try it now on Streamlit Cloud](https://crop-disease-detection.streamlit.app)**
+**👉 [Try it now on Hugging Face Spaces](https://huggingface.co/spaces/Tahaqwerty/plant-disease-detector)**
 
 ---
 
@@ -132,8 +132,8 @@ Or contact me to get the pretrained `.h5` files.
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/TahaXCoder/crop-disease-detection.git
-cd crop-disease-detection
+git clone https://huggingface.co/spaces/Tahaqwerty/plant-disease-detector
+cd plant-disease-detector
 python -m venv .venv
 .venv\Scripts\Activate     # Windows
 pip install -r requirements.txt
