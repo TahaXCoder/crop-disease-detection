@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large for GitHub)
+data/
+
+# Models — keep MobileNetV2 (10 MB), ignore CNN (231 MB)
+models/cnn_model.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+.streamlit/secrets.toml

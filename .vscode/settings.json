@@ -1,0 +1,4 @@
+{
+    "chat.agent.thinking.collapsedTools": "all",
+    "github.copilot.chat.agent.autoFix": false
+}
