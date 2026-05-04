@@ -19,7 +19,7 @@ pinned: false
 
 ## 🚀 Live Demo
 
-**👉 [Try it now on Hugging Face Spaces](https://tahaqwerty-plant-disease-detector.hf.space)**
+**👉 [Try the Live Web App Here](https://tahaqwerty-plant-disease-detector.hf.space)**
 
 ---
 
